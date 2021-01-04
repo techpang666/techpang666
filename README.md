@@ -1,9 +1,7 @@
 
-<!-- ### Hi there 👋 -->
-
 ![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif)
 
-# **一个落地广州不务正业的大前端🐶**
+## **一个落地广州不务正业的大前端🐶**
 >心无旁骛地修炼内功🙏  
 >如果不极度热爱 怎能驾驭梦想 飞得更远🚀  
 >佛系申请一键三连😁  
@@ -31,6 +29,7 @@ while (true) {
 
 ------
 ## **讨杯咖啡DRINK☕**
+>Hi there 👋  
 * [**佛系玩家沈公子的开源聚合服务⭐**](https://github.com/techpang666/techpang666.github.io)
 * [沈公子的技能书(待上传)🌳](https://techpang.top/)
 * [技术栈小分队直通车(笔记系统)🛵](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/_map_note_libs)
