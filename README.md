@@ -1,5 +1,5 @@
 
-![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif)
+![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif '富婆加我吧不想努力了')
 
 # **一个落地广州喜欢折腾的大前端🐶**
 >如果不极度热爱 怎能驾驭梦想 飞得更远🚀  
