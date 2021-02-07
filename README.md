@@ -21,13 +21,11 @@ console.log('不写代码还能干嘛🥺')
 
 ------
 ## **数据及技能展示**
-<div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</div>
 
 ![仓库中的语言占比](https://github-readme-stats.vercel.app/api/top-langs/?username=techpang666&layout=compact&hide_title=true '富婆加我吧不想努力了')
 
@@ -35,6 +33,6 @@ console.log('不写代码还能干嘛🥺')
 
 <hr>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpang666&layout=compact&hide_title=true" title="富婆加我吧不想努力了">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=techpang666&theme=vue-dark&show_icons=true&hide_title=true" title="富婆加我吧不想努力了">
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpang666&layout=compact&hide_title=true" title="富婆加我吧不想努力了">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=techpang666&theme=vue-dark&show_icons=true&hide_title=true" title="富婆加我吧不想努力了">
 </div>
