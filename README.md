@@ -34,5 +34,7 @@ console.log('不写代码还能干嘛🥺')
 ![年度提交量的数据展示](https://github-readme-stats.vercel.app/api?username=techpang666&theme=vue-dark&show_icons=true&hide_title=true '富婆加我吧不想努力了')
 
 <hr>
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpang666&layout=compact&hide_title=true" title="dd">
-<img align="" src="https://github-readme-stats.vercel.app/api?username=techpang666&theme=vue-dark&show_icons=true&hide_title=true" title="dd">
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpang666&layout=compact&hide_title=true" title="富婆加我吧不想努力了">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=techpang666&theme=vue-dark&show_icons=true&hide_title=true" title="富婆加我吧不想努力了">
+</div>
