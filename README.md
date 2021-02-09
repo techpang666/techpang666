@@ -12,8 +12,8 @@ console.log('不写代码还能干嘛🥺')
 ## **内容直通车🚀**
 >Hi there 👋  
 * [**佛系玩家沈公子的开源聚合服务⭐**](https://github.com/techpang666/techpang666.github.io)
-* [沈公子的GitHub主页](https://github.com/techpang666)
-* [沈公子的项目展示](https://techpang.top/project_show_center/)
+* [沈公子的GitHub主页🏠](https://github.com/techpang666)
+* [沈公子的项目展示🍖](https://techpang.top/project_show_center/)
 * [沈公子的云端书签库🔖](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/bookmark_libs.md)
 * [沈公子的技能书(待上传)🌳](https://techpang.top/)
 * [沈公子的笔记系统💻](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/_map_note_libs)
