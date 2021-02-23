@@ -18,8 +18,8 @@ console.log('不写代码还能干嘛🥺')
 * [沈公子的技能书🌳](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/mindmap.md)
 * [沈公子的笔记系统💻](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/_map_note_libs)
 * [工具插件类等教程直通车🐞](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/tool_plug_libs)
+* [如何自动化部署vue项目(视频版)🎥](https://www.bilibili.com/video/BV1E5411E75u/)
 * [更多内容敬请期待啦啦啦🍌](https://techpang.top/)
-<!-- * 如何自动化部署vue项目(视频版) -->
 
 ------
 ## **牛年大吉🧨**
