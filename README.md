@@ -34,7 +34,7 @@ console.log('不写代码还能干嘛🥺')
 ------
 
 <p align="center">
-  访问统计
+  <b>访问统计</b>
   <br>
   <img src="https://profile-counter.glitch.me/techpang666/count.svg" />
 </p>
