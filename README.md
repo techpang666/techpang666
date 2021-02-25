@@ -30,3 +30,11 @@ console.log('不写代码还能干嘛🥺')
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![年度提交量的数据展示](https://github-readme-stats.vercel.app/api?username=techpang666&theme=vue-dark&show_icons=true&hide_title=true&locale=cn&count_private=true '富婆加我吧不想努力了')
+
+------
+
+<p align="center">
+  访问统计
+  <br>
+  <img src="https://profile-counter.glitch.me/techpang666/count.svg" />
+</p>
