@@ -34,5 +34,6 @@ console.log('不写代码还能干嘛🥺')
 ------
 
 <p align="center">
+  👻😁👨‍💻🌈🚀<br>
   <img src="https://profile-counter.glitch.me/techpang666/count.svg" />
 </p>
