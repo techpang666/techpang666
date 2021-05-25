@@ -1,7 +1,7 @@
 
 ![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif '富婆加我吧不想努力了')
 
-## **我是沈公子 一个喜欢开源的前端🐶**
+## **我是沈公子 一个喜欢输出的前端🐶**
 >**用户体验温馨提示(Ctrl+单击打开相关链接)💖**  
 
 ```js
