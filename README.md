@@ -12,6 +12,7 @@ console.log('不写代码还能干嘛🥺')
 ## **内容直通车🚀**
 >Hi there 👋  
 * [**硬核玩家沈公子的开源聚合服务⭐**](https://github.com/techpang666/techpang666.github.io)
+* [沈公子的云上欢乐谷🥳](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/other_libs/happy_room.md)
 * [沈公子的提交数据3D模型(2021)😲](https://skyline.github.com/techpang666/2021)
 * [沈公子的JavaScript复盘⚡](https://github.com/techpang666/js_relearn)
 * [沈公子的红宝书行动🔫](https://github.com/techpang666/books_output/blob/master/core/red_ruby_book/red_ruby_book.md)
@@ -19,7 +20,7 @@ console.log('不写代码还能干嘛🥺')
 * [沈公子的云端书签库🔖](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/tool_plug_libs/bookmark_libs.md)
 * [沈公子的技能书🌳](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/mindmap.md)
 * [沈公子的笔记系统💻](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/_map_note_libs)
-* [工具插件类等教程直通车🐞](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/tool_plug_libs)
+* [工具插件类等教程直通车🛵](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/tool_plug_libs)
 * [自动化部署vue项目(视频版)🎥](https://www.bilibili.com/video/BV1E5411E75u/)
 * [更多内容敬请期待啦啦啦🍌](https://techpang.top/)
 
