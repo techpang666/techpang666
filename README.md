@@ -22,6 +22,7 @@ console.log('不写代码还能干嘛🥺')
 * [沈公子的笔记系统💻](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/_map_note_libs)
 * [工具插件类等教程直通车🛵](https://github.com/techpang666/techpang666.github.io/tree/main/core_libs/tool_plug_libs)
 * [自动化部署vue项目(视频版)🎥](https://www.bilibili.com/video/BV1E5411E75u/)
+* [行行好吧我是做前端的💰](https://github.com/techpang666/techpang666.github.io/blob/main/core_libs/other_libs/wechat_zhifubao_code.md)
 * [更多内容敬请期待啦啦啦🍌](https://techpang.top/)
 
 ------
